@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction 
 
 Vous allez coder tous le HTML et CSS d’une maquette de façon à obtenir la présentation graphique souhaitée.
@@ -29,3 +30,6 @@ Votre référence est le ﬁchier screenshot.png et screenshot.jpg.
 # Rendu 
 
 Travaillez d'abord sur la partie html. 
+=======
+# freelancer
+>>>>>>> 78aafb80b8749df90e38e01dc17ed7d85c0824f4
