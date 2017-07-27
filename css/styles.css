@@ -119,3 +119,7 @@ h3 { color: #f0454c;
   flex-wrap: nowrap;
   justify-content: flex-start;
 }
+main {
+       margin: auto;
+       width: 940px;
+}
