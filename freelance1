@@ -1,0 +1,47 @@
+
+# Veuillez saisir le message de validation pour vos modifications. Les lignes
+# commençant par '#' seront ignorées, et un message vide abandonne la validation.
+# Sur la branche master
+# Votre branche est à jour avec 'freelance1/master'.
+#
+# Modifications qui seront validées :
+#	modifié :         css/styles.css
+#	nouveau fichier : font-awesome-4.7.0/HELP-US-OUT.txt
+#	nouveau fichier : font-awesome-4.7.0/css/font-awesome.css
+#	nouveau fichier : font-awesome-4.7.0/css/font-awesome.min.css
+#	nouveau fichier : font-awesome-4.7.0/fonts/FontAwesome.otf
+#	nouveau fichier : font-awesome-4.7.0/fonts/fontawesome-webfont.eot
+#	nouveau fichier : font-awesome-4.7.0/fonts/fontawesome-webfont.svg
+#	nouveau fichier : font-awesome-4.7.0/fonts/fontawesome-webfont.ttf
+#	nouveau fichier : font-awesome-4.7.0/fonts/fontawesome-webfont.woff
+#	nouveau fichier : font-awesome-4.7.0/fonts/fontawesome-webfont.woff2
+#	nouveau fichier : font-awesome-4.7.0/less/animated.less
+#	nouveau fichier : font-awesome-4.7.0/less/bordered-pulled.less
+#	nouveau fichier : font-awesome-4.7.0/less/core.less
+#	nouveau fichier : font-awesome-4.7.0/less/fixed-width.less
+#	nouveau fichier : font-awesome-4.7.0/less/font-awesome.less
+#	nouveau fichier : font-awesome-4.7.0/less/icons.less
+#	nouveau fichier : font-awesome-4.7.0/less/larger.less
+#	nouveau fichier : font-awesome-4.7.0/less/list.less
+#	nouveau fichier : font-awesome-4.7.0/less/mixins.less
+#	nouveau fichier : font-awesome-4.7.0/less/path.less
+#	nouveau fichier : font-awesome-4.7.0/less/rotated-flipped.less
+#	nouveau fichier : font-awesome-4.7.0/less/screen-reader.less
+#	nouveau fichier : font-awesome-4.7.0/less/stacked.less
+#	nouveau fichier : font-awesome-4.7.0/less/variables.less
+#	nouveau fichier : font-awesome-4.7.0/scss/_animated.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_bordered-pulled.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_core.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_fixed-width.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_icons.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_larger.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_list.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_mixins.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_path.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_rotated-flipped.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_screen-reader.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_stacked.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/_variables.scss
+#	nouveau fichier : font-awesome-4.7.0/scss/font-awesome.scss
+#	modifié :         index.html
+#

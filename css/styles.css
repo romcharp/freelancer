@@ -120,6 +120,11 @@ h3 { color: #f0454c;
   justify-content: flex-start;
 }
 main {
-       margin: auto;
+       margin: 0 auto;
        width: 940px;
+}
+a
+{
+color: red;
+text-decoration: none;
 }
